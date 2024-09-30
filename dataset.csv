@@ -1,0 +1,49 @@
+Clinic ID,Website breach score,Breach status on website,Social media presence (1=Yes; 0= No),Number of social media platforms,Total number of platforms,Total number of followers on all social media platforms,Presence of sponsored ads  (1=Yes; 0= No),Number of active advertisements on social media platforms,Ad target population,Is the term 'medicinal cannabis' being used? (1=Yes; 0=No),Are people aware that it is the weed through comments?  (1=Yes; 0= No),1) use of hashtags or images that are likely to draw the consumer's mind to medicinal cannabis;  (2=Full breach; 1=Partial breach; 0= No breach),2) state that they provide medicinal cannabis prescription/ can fill or dispense  (2=Full breach; 1=Partial breach; 0= No breach),3) listing medical conditions that may benefit from therapy with medicinal cannabis   (2=Full breach; 1=Partial breach; 0= No breach),4) using consumer testimonials   (2=Full breach; 1=Partial breach; 0= No breach),5) referencing 3rd party information about medicinal cannabis   (2=Full breach; 1=Partial breach; 0= No breach),Social media breach score,Breach status on social media platforms
+1,9,LOW,1,FB; Instagram; Linkedin; X,4,27894,1,47,"18+ , visited website or partner's website, located in Australia",0,1,1,2,2,2,1,8,HIGH
+2,9,LOW,1,FB; Instagram; Linkedin; Tiktok,4,5770,1,39,"18+ , visited website or partner's website, located in Australia",0,0,2,2,0,0,0,4,LOW
+7,2,LOW,1,FB; Instagram,2,10382,1,71,"18-24, located in Australia, visited grove website/ partners website, speaks english",0,0,1,1,2,0,0,4,LOW
+9,6,LOW,1,FB; Instagram,2,3926,0,0,,0,1,2,2,2,2,0,8,HIGH
+11,4,LOW,1,FB; Instagram; Linkedin,3,9143,0,0,,0,1,2,2,2,2,2,10,HIGH
+12,4,LOW,1,FB; Instagram; YouTube,3,9435,1,13,"18+, located in Australia, similarities to their customers",0,0,2,2,1,2,2,9,HIGH
+16,6,LOW,1,FB,1,2,1,9,,0,0,0,1,2,0,0,3,LOW
+17,6,LOW,1,FB; Instagram; Linkedin,3,3341,1,76,"55+ , located in Australia, shown interest in QoL, Health and wellness",0,0,1,1,1,2,0,5,HIGH
+19,4,LOW,1,FB; Instagram,2,16008,1,13,"18+ , located in Australia",1,1,0,1,0,2,0,3,LOW
+21,6,LOW,1,FB; Instagram,2,286,0,0,,0,0,0,0,0,0,0,0,LOW
+22,8,LOW,1,FB; Instagram,2,504,1,6,"18+ , located in Australia",1,1,0,1,2,0,0,3,LOW
+25,8,LOW,1,FB,1,12,0,0,,0,0,0,0,0,0,0,0,LOW
+30,3,LOW,1,FB; Instagram,2,351,1,8,,1,1,2,2,2,0,2,8,HIGH
+31,3,LOW,1,FB; Linkedin,3,845,0,0,,0,0,0,1,0,1,0,2,LOW
+32,9,LOW,1,FB,1,2400,0,0,,0,0,0,1,0,0,0,1,LOW
+34,8,LOW,1,FB; Instagram; Linkedin; YouTube,4,740,0,0,,1,1,0,2,2,2,2,8,HIGH
+35,4,LOW,1,FB; Instagram; Linkedin,3,3393,0,0,,1,0,1,2,1,0,0,4,LOW
+36,2,LOW,1,FB,1,1900,1,7,"18+ , located in Australia",0,1,0,0,0,0,0,0,LOW
+38,4,LOW,1,FB; Instagram,2,4900,0,0,,0,0,0,0,1,0,0,1,LOW
+40,8,LOW,1,FB; Instagram,2,1830,0,0,,1,0,1,2,1,0,2,6,HIGH
+42,5,LOW,1,FB,1,2046,1,1,"18+ , located in Australia",0,1,1,1,0,0,0,2,LOW
+44,8,LOW,1,FB; Instagram,2,205,1,3,"18+ , located in Australia",1,1,2,2,2,2,0,8,HIGH
+47,0,LOW,1,FB; Instagram,2,1092,1,19,"30+, located in Australia, shown interest in well being psychology or medicine",0,0,0,1,2,0,0,3,LOW
+48,4,LOW,1,FB,1,270,1,7,"21+, located in Australia, communicated in English ",1,1,0,2,2,0,2,6,HIGH
+3,18,HIGH,1,FB; Instagram,2,4200,0,0,,1,1,2,2,0,2,0,6,HIGH
+4,11,HIGH,1,FB; Instagram,2,259,1,2,"18+ , located in Australia",1,1,2,2,2,2,0,8,HIGH
+5,18,HIGH,1,FB; Instagram; Linkedin,3,2703,0,0,,1,1,2,2,2,2,2,10,HIGH
+6,20,HIGH,1,FB; Instagram,2,139,0,0,,1,0,2,2,2,0,2,8,HIGH
+8,10,HIGH,1,FB; Instagram,2,2866,1,3,"18+ , located in Australia",1,0,2,2,2,2,0,8,HIGH
+10,12,HIGH,1,FB; Instagram,2,446,0,0,,1,0,2,2,2,0,2,8,HIGH
+13,10,HIGH,1,FB; Instagram,2,3630,1,16,"18+ , visited website or partner's website, located in Australia",0,1,0,2,2,2,2,8,HIGH
+14,10,HIGH,1,FB; Instagram,2,313,0,0,,1,1,2,2,2,0,0,6,HIGH
+15,10,HIGH,1,FB; Instagram; Linkedin,3,3946,1,7,"18+ , female, located in Australia",0,0,0,1,2,0,0,3,LOW
+18,12,HIGH,1,FB; Instagram,2,3100,1,10,"20+, located in Australia, interacted with FB page or website",0,0,0,1,0,0,0,1,LOW
+20,10,HIGH,1,FB; Instagram; Linkedin,3,5334,1,11,"18+ , visited website or partner's website, located in Australia",0,1,1,1,2,1,0,5,HIGH
+23,10,HIGH,1,FB; Instagram,2,1357,1,20,"18+ , located in Australia, shown interest in QoL, Health & Wellness",1,1,2,2,1,0,0,5,HIGH
+24,14,HIGH,1,FB; Instagram,2,918,1,8,"20+ , located in Australia",1,1,1,2,2,2,2,9,HIGH
+26,12,HIGH,1,FB,1,2200,0,0,,0,0,2,2,1,0,0,5,HIGH
+27,19,HIGH,1,FB; Instagram; Linkedin; X; YouTube,5,18732,0,0,,1,1,2,1,2,0,2,7,HIGH
+28,10,HIGH,1,FB; Linkedin,2,566,0,0,,0,0,0,0,0,0,0,0,LOW
+29,12,HIGH,1,FB,1,720,0,0,,0,0,0,0,0,0,0,0,LOW
+33,12,HIGH,1,FB; Instagram; Linkedin,3,4389,0,0,,0,0,2,2,2,0,0,6,HIGH
+37,10,HIGH,1,FB,1,2246,1,10,,0,0,0,0,0,0,0,0,LOW
+39,20,HIGH,1,FB; Instagram; Linkedin; YouTube,4,335,0,0,,1,1,2,2,2,1,0,7,HIGH
+41,14,HIGH,1,FB; Instagram,2,708,0,0,,1,0,0,0,2,0,0,2,LOW
+43,16,HIGH,1,FB; Instagram,2,1040,1,4,"25+ , located in Australia, shown an interest in health and wellness or well being",0,0,0,1,0,0,0,1,LOW
+45,10,HIGH,1,FB; Instagram,2,45,1,2,"18+ , located in Australia",0,0,0,0,2,0,0,2,LOW
+46,10,HIGH,1,FB; Instagram,2,2785,1,9,"18+, located in Australia",0,1,0,1,0,1,0,2,LOW
